@@ -1,0 +1,67 @@
+/************** C1 **************/
+.c1{
+    
+}
+
+.b1{
+	background:red;
+	float:left;
+	width:20%;
+}
+
+.b2{
+	background:blue;
+	float:right;
+	width:80%;
+}
+/************** C2 **************/
+.c2{
+	background: green;
+	padding: 5px;
+}
+
+.b3{
+	background: #FF8F00 ;
+}
+/************** C3 **************/
+
+.c3{
+
+}
+
+.b4{
+	background: #E800FF;
+	float:left;
+	width:33.33%;
+}
+
+
+.b5{
+	background: #00CDFF;
+	float:left;
+	width:33.33%;
+}
+
+
+.b6{
+	background: #00FF32;
+	float:left;
+	width:33.33%;
+}
+/************** C4 **************/
+.c4{
+    background: blue ;
+    padding-left: : 5px;
+}
+
+.b7{
+	float:left;
+	width:50%;
+	background: #A8A3FF ;
+}
+
+.b8{
+    float:right;
+	width:50%;
+	background: #FFCBA3 ;
+}
